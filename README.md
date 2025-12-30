@@ -84,7 +84,7 @@ index.html
 
 **Belal Rezk**  
 Frontend Developer  
-📎 LinkedIn: https://www.linkedin.com/in/YOUR_PROFILE  
+📎 LinkedIn: https://www.linkedin.com/in/belal-rezk-767380347 
 📂 GitHub Repository:  
-👉 https://github.com/YOUR_USERNAME/js-crud-product-management
+👉 https://github.com/Belal0-0Rezk/JavaScript-CRUD-Product-Management-System
 
