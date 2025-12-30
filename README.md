@@ -29,6 +29,7 @@ This project is designed as a **frontend practice project** focusing on:
 - Bootstrap 5
 - Vanilla JavaScript
 - LocalStorage API
+- Git & GitHub (Version Control)
 
 ---
 
@@ -64,6 +65,8 @@ index.html
 - Managing UI state between Add / Update modes
 - Using LocalStorage to persist data
 - Building a simple Admin Panel layout
+- Using Git & GitHub for version control
+- Pushing projects to GitHub using Git CLI
 
 ---
 
@@ -82,4 +85,6 @@ index.html
 **Belal Rezk**  
 Frontend Developer  
 📎 LinkedIn: https://www.linkedin.com/in/YOUR_PROFILE  
-📂 GitHub: https://github.com/YOUR_USERNAME
+📂 GitHub Repository:  
+👉 https://github.com/YOUR_USERNAME/js-crud-product-management
+
